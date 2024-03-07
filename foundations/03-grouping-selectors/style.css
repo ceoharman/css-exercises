@@ -8,7 +8,7 @@
   background-color: yellow;
 }
 
-.both {
+.first,.second {
   font-size: 28px;
-  font-family: 'Times New Roman', Helvetica, sans-serif;
+  font-family: Helvetica, sans-serif;
 }
