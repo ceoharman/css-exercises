@@ -1,9 +1,29 @@
 /*This is the odd numbers elements class*/
 
-.oddnumbers {
-  background-color: red;
+.odd-numbers {
+  background-color: pink;
   font-style: Verdana;
 }
 
 /*To the second element blue text and font size of 36px*/
 
+.second {
+  color: blue;
+  font-size: 36px;
+}
+
+/*This is for the third element with ID class*/
+
+#odd-numbers {
+  background-color: pink;
+  font-style: Verdana;
+  font-size: 24px;
+}
+
+/*This is for the fourth element*/
+
+.fourth {
+  background-color: lightgreen;
+  font-size: 24;
+  font-weight: bold;
+}
